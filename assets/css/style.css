@@ -264,5 +264,29 @@ width: 100%;
      
      footer{
          color:white;
-         
+
+     }
+     @media (min-width: 1200px) {
+         h1 {
+             font-size: 2.5rem;
+         }
+     }
+
+     h2 {
+         font-size: calc(1.325rem + 0.9vw);
+     }
+
+     @media (min-width: 1200px) {
+
+         h2,
+         .h2 {
+             font-size: 2rem;
+         }
+     }
+
+     @media only screen and (max-width: 480px) {
+         img {
+             width: 100%;
+         }
+
      }
