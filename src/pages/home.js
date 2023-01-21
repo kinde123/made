@@ -170,7 +170,7 @@ pracę architektów i tym, chcemy się z Wami dzielić!Dołącz do nas i sprawd�
     <div class="row">
         <div class="col">
             <div class="feature-box col-sm-3">
-                <img src="assets/images/ppl.jpg" class="img" alt="hand" />
+                <img src="assets/images/pp1.jpg" class="img" alt="hand" />
                 <p>
                     CUSTOMIZACJA
                 </p>
